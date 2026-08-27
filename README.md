@@ -23,7 +23,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aepra&theme=dracula&no-frame=true&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aepra&amp;theme=dracula&amp;no-frame=true&amp;no-bg=true" alt="Trophies" />
 </p>
 
 ---
@@ -31,13 +31,13 @@
 ### 🛠️ Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,php,java,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,php,java,html,css&amp;theme=dark" />
     <br/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,fastapi,supabase,prisma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,fastapi,supabase,prisma&amp;theme=dark" />
     <br/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postgresql,mysql,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postgresql,mysql,vscode,figma&amp;theme=dark" />
   </a>
 </p>
 
@@ -45,13 +45,11 @@
 
 ### 📈 GitHub Analytics
 <p align="center">
-  <!-- Menggunakan warna background gelap solid agar aman dari error -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aepra&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aepra&theme=react&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" alt="Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aepra&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF9D&amp;icon_color=00FF9D" alt="Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aepra&amp;theme=react&amp;hide_border=true&amp;background=0D1117&amp;ring=00FF9D&amp;fire=00FF9D&amp;currStreakLabel=00FF9D" alt="Streak" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aepra&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9D" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aepra&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF9D" alt="Top Languages" width="48%" />
 </p>
 
 ---
